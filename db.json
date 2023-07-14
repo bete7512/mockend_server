@@ -2,224 +2,233 @@
 "Users": [
 {
 "id": 1,
-"first_name": "Mamaru",
-"last_name": "Negash",
-"phone_number": "+251948266671",
-"active": true,
-"verified": false,
-"email": null,
-"email_verified_at": null,
-"user_region": "Amhara",
-"user_zone": "wast gojjam",
-"user_woreda": "Woreda 03",
-"verification_code": "600642",
-"remember_token": null,
-"created_at": "2022-12-06T12:41:37.000Z",
-"updated_at": "2022-12-19T07:53:01.000Z"
+"name": "Leanne Graham",
+"username": "Bret",
+"email": "Sincere@april.biz",
+"address": {
+"street": "Kulas Light",
+"suite": "Apt. 556",
+"city": "Gwenborough",
+"zipcode": "92998-3874",
+"geo": {
+"lat": "-37.3159",
+"lng": "81.1496"
+}
+},
+"phone": "1-770-736-8031 x56442",
+"website": "hildegard.org",
+"company": {
+"name": "Romaguera-Crona",
+"catchPhrase": "Multi-layered client-server neural-net",
+"bs": "harness real-time e-markets"
+}
 },
 {
 "id": 2,
-"first_name": "Some",
-"last_name": "body",
-"phone_number": "+251966016473",
-"active": true,
-"verified": false,
-"email": null,
-"email_verified_at": null,
-"user_region": "Addis Abeba",
-"user_zone": "Addis Abeba",
-"user_woreda": "Addis Abeba",
-"verification_code": "255656",
-"remember_token": null,
-"created_at": "2022-12-07T06:56:42.000Z",
-"updated_at": "2022-12-07T07:00:11.000Z"
+"name": "Ervin Howell",
+"username": "Antonette",
+"email": "Shanna@melissa.tv",
+"address": {
+"street": "Victor Plains",
+"suite": "Suite 879",
+"city": "Wisokyburgh",
+"zipcode": "90566-7771",
+"geo": {
+"lat": "-43.9509",
+"lng": "-34.4618"
+}
+},
+"phone": "010-692-6593 x09125",
+"website": "anastasia.net",
+"company": {
+"name": "Deckow-Crist",
+"catchPhrase": "Proactive didactic contingency",
+"bs": "synergize scalable supply-chains"
+}
+},
+{
+"id": 3,
+"name": "Clementine Bauch",
+"username": "Samantha",
+"email": "Nathan@yesenia.net",
+"address": {
+"street": "Douglas Extension",
+"suite": "Suite 847",
+"city": "McKenziehaven",
+"zipcode": "59590-4157",
+"geo": {
+"lat": "-68.6102",
+"lng": "-47.0653"
+}
+},
+"phone": "1-463-123-4447",
+"website": "ramiro.info",
+"company": {
+"name": "Romaguera-Jacobson",
+"catchPhrase": "Face to face bifurcated interface",
+"bs": "e-enable strategic applications"
+}
 },
 {
 "id": 4,
-"first_name": "dayan",
-"last_name": "yenesew",
-"phone_number": "0986038473",
-"active": true,
-"verified": false,
-"email": "dayanyenesew@gmail.com",
-"email_verified_at": null,
-"user_region": "Amhara",
-"user_zone": "Bahir Dar",
-"user_woreda": "Bahir Dar",
-"verification_code": "5737",
-"remember_token": null,
-"created_at": "2022-12-07T07:29:37.000Z",
-"updated_at": "2022-12-07T07:29:37.000Z"
+"name": "Patricia Lebsack",
+"username": "Karianne",
+"email": "Julianne.OConner@kory.org",
+"address": {
+"street": "Hoeger Mall",
+"suite": "Apt. 692",
+"city": "South Elvis",
+"zipcode": "53919-4257",
+"geo": {
+"lat": "29.4572",
+"lng": "-164.2990"
+}
+},
+"phone": "493-170-9623 x156",
+"website": "kale.biz",
+"company": {
+"name": "Robel-Corkery",
+"catchPhrase": "Multi-tiered zero tolerance productivity",
+"bs": "transition cutting-edge web services"
+}
 },
 {
-"id": 12,
-"first_name": "Getaye",
-"last_name": "Biyznlgn",
-"phone_number": "+251975752668",
-"active": false,
-"verified": false,
-"email": null,
-"email_verified_at": null,
-"user_region": "Amhara",
-"user_zone": "gojam",
-"user_woreda": "Amhara",
-"verification_code": "536126",
-"remember_token": null,
-"created_at": "2022-12-07T07:59:43.000Z",
-"updated_at": "2022-12-09T06:54:47.000Z"
+"id": 5,
+"name": "Chelsey Dietrich",
+"username": "Kamren",
+"email": "Lucio_Hettinger@annie.ca",
+"address": {
+"street": "Skiles Walks",
+"suite": "Suite 351",
+"city": "Roscoeview",
+"zipcode": "33263",
+"geo": {
+"lat": "-31.8129",
+"lng": "62.5342"
+}
+},
+"phone": "(254)954-1289",
+"website": "demarco.info",
+"company": {
+"name": "Keebler LLC",
+"catchPhrase": "User-centric fault-tolerant solution",
+"bs": "revolutionize end-to-end systems"
+}
 },
 {
-"id": 23,
-"first_name": "Ashenafi",
-"last_name": "Teka",
-"phone_number": "+251912146196",
-"active": true,
-"verified": false,
-"email": null,
-"email_verified_at": null,
-"user_region": null,
-"user_zone": null,
-"user_woreda": null,
-"verification_code": "929279",
-"remember_token": null,
-"created_at": "2022-12-09T08:24:49.000Z",
-"updated_at": "2022-12-09T08:24:49.000Z"
+"id": 6,
+"name": "Mrs. Dennis Schulist",
+"username": "Leopoldo_Corkery",
+"email": "Karley_Dach@jasper.info",
+"address": {
+"street": "Norberto Crossing",
+"suite": "Apt. 950",
+"city": "South Christy",
+"zipcode": "23505-1337",
+"geo": {
+"lat": "-71.4197",
+"lng": "71.7478"
+}
+},
+"phone": "1-477-935-8478 x6430",
+"website": "ola.org",
+"company": {
+"name": "Considine-Lockman",
+"catchPhrase": "Synchronised bottom-line interface",
+"bs": "e-enable innovative applications"
+}
 },
 {
-"id": 24,
-"first_name": "Abadi",
-"last_name": "Zemu",
-"phone_number": "0975752345",
-"active": true,
-"verified": false,
-"email": "abadi@gmail.com",
-"email_verified_at": null,
-"user_region": "Oromia",
-"user_zone": "Wolega",
-"user_woreda": "Horu Gudiru",
-"verification_code": "566109",
-"remember_token": null,
-"created_at": "2022-12-12T06:52:39.000Z",
-"updated_at": "2022-12-12T06:52:39.000Z"
+"id": 7,
+"name": "Kurtis Weissnat",
+"username": "Elwyn.Skiles",
+"email": "Telly.Hoeger@billy.biz",
+"address": {
+"street": "Rex Trail",
+"suite": "Suite 280",
+"city": "Howemouth",
+"zipcode": "58804-1099",
+"geo": {
+"lat": "24.8918",
+"lng": "21.8984"
+}
+},
+"phone": "210.067.6132",
+"website": "elvis.io",
+"company": {
+"name": "Johns Group",
+"catchPhrase": "Configurable multimedia task-force",
+"bs": "generate enterprise e-tailers"
+}
 },
 {
-"id": 25,
-"first_name": "Semira",
-"last_name": "Khan",
-"phone_number": "0967452345",
-"active": true,
-"verified": false,
-"email": "semira@gmail.com",
-"email_verified_at": null,
-"user_region": "Amhara",
-"user_zone": "Wolo",
-"user_woreda": "Kemisie",
-"verification_code": "604402",
-"remember_token": null,
-"created_at": "2022-12-12T06:54:24.000Z",
-"updated_at": "2022-12-12T06:54:24.000Z"
+"id": 8,
+"name": "Nicholas Runolfsdottir V",
+"username": "Maxime_Nienow",
+"email": "Sherwood@rosamond.me",
+"address": {
+"street": "Ellsworth Summit",
+"suite": "Suite 729",
+"city": "Aliyaview",
+"zipcode": "45169",
+"geo": {
+"lat": "-14.3990",
+"lng": "-120.7677"
+}
+},
+"phone": "586.493.6943 x140",
+"website": "jacynthe.com",
+"company": {
+"name": "Abernathy Group",
+"catchPhrase": "Implemented secondary concept",
+"bs": "e-enable extensible e-tailers"
+}
 },
 {
-"id": 26,
-"first_name": "Hawa",
-"last_name": "Ibrahim",
-"phone_number": "0957573456",
-"active": true,
-"verified": false,
-"email": "hawa@gmail.com",
-"email_verified_at": null,
-"user_region": "Sidamo",
-"user_zone": "Hawasa",
-"user_woreda": "Gimbi",
-"verification_code": "1872",
-"remember_token": null,
-"created_at": "2022-12-12T06:56:48.000Z",
-"updated_at": "2022-12-12T06:56:48.000Z"
+"id": 9,
+"name": "Glenna Reichert",
+"username": "Delphine",
+"email": "Chaim_McDermott@dana.io",
+"address": {
+"street": "Dayna Park",
+"suite": "Suite 449",
+"city": "Bartholomebury",
+"zipcode": "76495-3109",
+"geo": {
+"lat": "24.6463",
+"lng": "-168.8889"
+}
+},
+"phone": "(775)976-6794 x41206",
+"website": "conrad.com",
+"company": {
+"name": "Yost and Sons",
+"catchPhrase": "Switchable contextually-based project",
+"bs": "aggregate real-time technologies"
+}
 },
 {
-"id": 27,
-"first_name": "Henan",
-"last_name": "Abur",
-"phone_number": "0947473456",
-"active": true,
-"verified": false,
-"email": "henan@gmail.com",
-"email_verified_at": null,
-"user_region": "Somali",
-"user_zone": "godie",
-"user_woreda": "gedarif",
-"verification_code": "692020",
-"remember_token": null,
-"created_at": "2022-12-12T06:58:33.000Z",
-"updated_at": "2022-12-12T06:58:33.000Z"
+"id": 10,
+"name": "Clementina DuBuque",
+"username": "Moriah.Stanton",
+"email": "Rey.Padberg@karina.biz",
+"address": {
+"street": "Kattie Turnpike",
+"suite": "Suite 198",
+"city": "Lebsackbury",
+"zipcode": "31428-2261",
+"geo": {
+"lat": "-38.2386",
+"lng": "57.2232"
+}
 },
-{
-"id": 28,
-"first_name": "Zenebe",
-"last_name": "Abrham",
-"phone_number": "0957534455",
-"active": true,
-"verified": false,
-"email": "zenebe@gmail.com",
-"email_verified_at": null,
-"user_region": "SNNP",
-"user_zone": "Alem",
-"user_woreda": "wolayita",
-"verification_code": "519659",
-"remember_token": null,
-"created_at": "2022-12-12T07:00:38.000Z",
-"updated_at": "2022-12-12T07:00:38.000Z"
-},
-{
-"id": 29,
-"first_name": "hanibal",
-"last_name": "G Med",
-"phone_number": "+251913603299",
-"active": true,
-"verified": false,
-"email": null,
-"email_verified_at": null,
-"user_region": null,
-"user_zone": null,
-"user_woreda": null,
-"verification_code": "703702",
-"remember_token": null,
-"created_at": "2022-12-19T09:55:50.000Z",
-"updated_at": "2022-12-19T09:55:50.000Z"
-},
-{
-"id": 30,
-"first_name": "Bete",
-"last_name": "Goshme",
-"phone_number": "+251962247109",
-"active": true,
-"verified": false,
-"email": null,
-"email_verified_at": null,
-"user_region": "Amhara",
-"user_zone": "North Showa",
-"user_woreda": "Ankober",
-"verification_code": "119180",
-"remember_token": null,
-"created_at": "2023-01-22T08:21:46.000Z",
-"updated_at": "2023-01-22T08:25:49.000Z"
-},
-{
-"id": 31,
-"first_name": "Bete",
-"last_name": "Goshme",
-"phone_number": "0962247109",
-"active": true,
-"verified": false,
-"email": null,
-"email_verified_at": null,
-"user_region": null,
-"user_zone": null,
-"user_woreda": null,
-"verification_code": null,
-"remember_token": null,
-"created_at": null,
-"updated_at": null
+"phone": "024-648-3804",
+"website": "ambrose.net",
+"company": {
+"name": "Hoeger LLC",
+"catchPhrase": "Centralized empowering task-force",
+"bs": "target end-to-end models"
+}
 }
 ]
 }
